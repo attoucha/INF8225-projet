@@ -1,3 +1,5 @@
+# based on https://github.com/Shmuma/ptan/tree/master/samples/rainbow
+
 import numpy as np
 import time
 import gym
